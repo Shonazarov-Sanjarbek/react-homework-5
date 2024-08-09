@@ -26,7 +26,7 @@ const Footer = ({information, menu, contact}) => {
   return (
     <>
         <div id="Footer" className="bg-slate-100 py-[40px] mt-36">
-            <div className="container mx-auto px-4">
+            <div className="containers mx-auto px-4">
                 <div>
                     <div className="mb-7">
                     <img src={logo} alt="" />
